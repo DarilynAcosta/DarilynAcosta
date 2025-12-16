@@ -24,9 +24,9 @@
 
 - 🔭 Currently studying at ** DCCP-Bangued**
 - 🌱 Learning ** How to improve my skills. **
-- 💬 Ask me about **
+- 💬 Current Focus ** Web Development **
 - 📫 Reach me at: **acostadarilyn8@gmail.com**
-- ⚡ Fun fact: **I turn left to the right** ☕️→💻
+- ⚡ Fun fact: **Making mistakes, making progress** ☕️→💻
 
 <br clear="right"/>
 
@@ -54,9 +54,9 @@
 <td width="50%" valign="top">
 
 ### 🚀 Working On
--Learning something new every day
--Exploring different areas of web development
--Preparing myself for future tech projects
+- Learning something new every day
+- Exploring different areas of web development
+- Preparing myself for future tech projects
 
 </td>
 <td width="50%" valign="top">
