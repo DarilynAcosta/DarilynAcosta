@@ -1,45 +1,106 @@
-## 📊 My GitHub Metrics Summary
-
-| Metric | Value | Trend |
-|--------|-------|-------|
-| **Total Stars** | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/DarilynAcosta&query=stars&label=Stars&color=blue) | 📈 |
-| **Total Commits** | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/DarilynAcosta&query=commits&label=Commits&color=green) | 📈 |
-| **Repositories** | ![](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/DarilynAcosta&query=repos&label=Repos&color=orange) | 📈 |
-
----
-
-## 🌟 Recent Activity
-<!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarilynAcosta&theme=github-compact&hide_border=true&area=true&custom_title=Darilyn's%20Coding%20Activity" width="90%">
+
+<!-- Dynamic Header with Typing Effect -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=DARILYN%20B.%20ACOSTA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=BSIT%20STUDENT%20%7C%20ONLINE%20SELLER%20%7C%20TECH%20LEARNER&descAlignY=60&descSize=20"/>
+
+<!-- Animated Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+code+universe!+%F0%9F%8C%8C;Crafting+elegant+solutions+with+clean+code+%E2%9C%A8;Always+learning%2C+forever+growing+%F0%9F%9A%80;Let's+build+something+amazing+together!+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+<br>
+
 </div>
 
+---
 
-# Social Media Accounts
-<a href="https://www.facebook.com/share/1Bes2Xb7ip/?mibextid=wwXIfr" target="blank" ><img src="https://i.pinimg.com/736x/04/7d/60/047d603f517f98cd681da68bbd87ee85.jpg?raw=true" height="50" widht="50"></a>
-<a href="https://www.instagram.com/darlinyyyy?igsh=dmo0bHNpazF5YjV5&utm_source=qr" target="blank" ><img src="https://i.pinimg.com/736x/58/a2/be/58a2bec02ecb40d12e507e2a212c46c6.jpg?raw=true" height="50" widht="50"></a>
-<a href="https://www.tiktok.com/@darilyn.acosta" target="blank" ><img src="https://i.pinimg.com/736x/09/43/6c/09436cae0890444c40626329c65075b2.jpg?raw=true" height="50" widht="50"></a>
+## 🎯 About Me
 
- ## MY GITHUB STATS
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarilynAcosta&show_icons=true&theme=radical)
-
-##
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarilynAcosta&theme=radical)](https://git.io/streak-stats)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarilynAcosta&layout=compact&theme=radical&hide_border=true&v=1)
+        self.name = "Darilyn Acosta"
+        self.role = "BSIT Student"
+        self.location = "Bangued, Abra 🌍"
+        "Thanks for dropping by! Let's connect and build something great!"
+
+- 🔭 Currently studying at ** DCCP-Bangued**
+- 🌱 Learning ** How to improve my skills. **
+- 💬 Ask me about **
+- 📫 Reach me at: **acostadarilyn8@gmail.com**
+- ⚡ Fun fact: **I turn left to the right** ☕️→💻
+
+<br clear="right"/>
 
 ---
 
-## 🎯 Profile Views Counter
-![Profile Views](https://komarev.com/ghpvc/?username=DarilynAcosta&style=flat-square&color=blue)
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</div>
 
 ---
 
-# 📝 CREDITS
-- **MishManners®™** AKA the Hackathon Queen®™ - For inspiration[citation:6]
-- **Anurag Hazra** - For [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)[citation:2]
-- **All contributors** to the repositories I've used and learned from!
+
+## 🎯 Current Focus
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Working On
+-Learning something new every day
+-Exploring different areas of web development
+-Preparing myself for future tech projects
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Learning
+- How the web works.
+- Understanding code step by step
+- Improving problem-solving skills
+
+</td>
+</tr>
+</table>
 
 ---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/YOUR_FACEBOOK](https://www.facebook.com/share/1Bes2Xb7ip/?mibextid=wwXIfr))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/darlinyyyy?igsh=dmo0bHNpazF5YjV5&utm_source=qr))
+
+<br>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<br>
+
+**Thanks for visiting! 🚀 Let's connect and build something amazing together!**
+
+</div>
