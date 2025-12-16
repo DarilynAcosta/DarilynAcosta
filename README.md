@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header with Typing Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=DARILYN%20B.%20ACOSTA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=BSIT%20STUDENT%20%7C%20ONLINE%20SELLER%20%7C%20TECH%20LEARNER&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=6,11,20&text=DARILYN%20B.%20ACOSTA&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=BSIT%20STUDENT%20%7C%20ONLINE%20SELLER%20%7C%20TECH%20LEARNER&descAlignY=60&descSize=20"/>
 
 <!-- Animated Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+code+universe!+%F0%9F%8C%8C;Crafting+elegant+solutions+with+clean+code+%E2%9C%A8;Always+learning%2C+forever+growing+%F0%9F%9A%80;Let's+build+something+amazing+together!+%F0%9F%92%BB)](https://git.io/typing-svg)
