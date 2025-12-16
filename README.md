@@ -82,16 +82,26 @@
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Let's Connect & Collaborate
+
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/YOUR_FACEBOOK](https://www.facebook.com/share/1Bes2Xb7ip/?mibextid=wwXIfr))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/darlinyyyy?igsh=dmo0bHNpazF5YjV5&utm_source=qr))
+<a href="https://www.facebook.com/share/1Bes2Xb7ip/?mibextid=wwXIfr"> 
 
-<br>
+  <img src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19757.png" height="50" style="border-radius:50%">
+
+</a>
+
+<a href="https://www.instagram.com/darlinyyyy?igsh=dmo0bHNpazF5YjV5&utm_source=qr"> 
+
+  <img src="https://statesborodowntown.com/wp-content/uploads/2016/01/instagram-Logo-PNG-Transparent-Background-download.png" height="50" style="border-radius:50%">
+
+</a>
+
 
 </div>
+
 
 ---
 
